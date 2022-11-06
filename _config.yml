@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: PrometheusAPCSA
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: Dylanluo05
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "DylanLuoAPCSA"
+github_repo: "PrometheusAPCSA"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,7 +34,7 @@ url: "https://Dylanluo05.github.io" # the base hostname & protocol for your site
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/DylanLuoAPCSA" # the subpath of your site, e.g. "/blog".
+baseurl: "/PrometheusAPCSA" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
