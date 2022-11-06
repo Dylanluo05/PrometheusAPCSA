@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://dylanluo05.github.io/DylanLuoAPCSA/MyFirstJavaScript/</loc>
+<loc>https://dylanluo05.github.io/PrometheusAPCSA/MyFirstJavaScript/</loc>
 </url>
 <url>
-<loc>https://dylanluo05.github.io/DylanLuoAPCSA/</loc>
+<loc>https://dylanluo05.github.io/PrometheusAPCSA/diet/</loc>
+</url>
+<url>
+<loc>https://dylanluo05.github.io/PrometheusAPCSA/fitness/</loc>
+</url>
+<url>
+<loc>https://dylanluo05.github.io/PrometheusAPCSA/</loc>
+</url>
+<url>
+<loc>https://dylanluo05.github.io/PrometheusAPCSA/plan/</loc>
 </url>
 </urlset>

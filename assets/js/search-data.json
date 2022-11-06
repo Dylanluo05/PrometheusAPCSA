@@ -8,8 +8,30 @@
       "page1": {
           "title": "JavaScript Local Storage Login System",
           "content": ". . Sign In . . Username Password Sign Up . . Username Password Confirm Password .",
-          "url": "https://dylanluo05.github.io/DylanLuoAPCSA/MyFirstJavaScript/",
+          "url": "https://dylanluo05.github.io/PrometheusAPCSA/MyFirstJavaScript/",
           "relUrl": "/MyFirstJavaScript/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "Diet Planner",
+          "content": "&lt;!DOCTYPE html&gt; . . Home Workout Plans My Fitness Plan Diet Tracker Diet Survey . Name: Date: Height in Inches: Weight in Pounds: Previous Page Do you want to lose, maintain, or gain weight? Lose Weight Maintain Weight Gain Weight Target Weight: Previous Page What is your gender? Male Female Other Do you follow any of these dietary needs? Vegetarian Vegan Pescatarian N/A Previous Page . Weight: &lt;/h2&gt; . Height: &lt;/h2&gt; . &lt;/div&gt; Start Date: &lt;/h2&gt; . Diet Goal: &lt;/h2&gt; . &lt;/div&gt; Weight Goal: &lt;/h2&gt; . Gender: &lt;/h2&gt; . Dietary Needs: &lt;/h2&gt; . &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; Food Calorie Calculator . Search &lt;/div&gt; &lt;/body&gt; &lt;/html&gt; . .",
+          "url": "https://dylanluo05.github.io/PrometheusAPCSA/diet/",
+          "relUrl": "/diet/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page3": {
+          "title": "Fitness Profile",
+          "content": "",
+          "url": "https://dylanluo05.github.io/PrometheusAPCSA/fitness/",
+          "relUrl": "/fitness/",
           "date": ""
       }
       
@@ -18,6 +40,14 @@
   
 
   
+      ,"page5": {
+          "title": "Workout Plans",
+          "content": "",
+          "url": "https://dylanluo05.github.io/PrometheusAPCSA/plan/",
+          "relUrl": "/plan/",
+          "date": ""
+      }
+      
   
 
   
@@ -33,10 +63,13 @@
   
 
   
-      ,"page8": {
+  
+
+  
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://dylanluo05.github.io/DylanLuoAPCSA/robots.txt",
+          "url": "https://dylanluo05.github.io/PrometheusAPCSA/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
